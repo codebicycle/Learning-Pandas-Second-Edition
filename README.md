@@ -1,4 +1,7 @@
 # Learning Pandas - Second Edition
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codebicycle/Learning-Pandas-Second-Edition/master)
+
 This is the code repository for [Learning Pandas - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-pandas-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787123137), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 You will learn how to use pandas to perform data analysis in Python. You will start with an overview of data analysis and iteratively progress from modeling data, to accessing data from remote sources, performing numeric and statistical analysis, through indexing and performing aggregate analysis, and finally to visualizing statistical data and applying pandas to finance.
